@@ -36,8 +36,3 @@ tracking_3d
 5) Choose the format of the data extracted by selecting `npy` or `csv` within the `test_tracker` method
 6) Run `python3 tracking.py`
 
-
-### References
-If you find this algorithm useful for your work, please cite it as follows: <br>
-
-  <a href="https://arxiv.org/abs/2104.00893"> Duo Lu, Varun C Jammula, Steven Como, Jeffrey Wishart, Yan Chen, & Yezhou Yang. (2021). CAROM – Vehicle Localization and Traffic Scene Reconstruction from Monocular Cameras on Road Infrastructures. </a>
