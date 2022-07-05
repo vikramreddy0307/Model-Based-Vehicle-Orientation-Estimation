@@ -13,8 +13,12 @@
 * EgoNet is  a SOTA model for KITTI benchmark on vehicle orientation estimation task.
 * The EgoNet integration will provide accurate 3D bounding boxes prediction for car instances in CAROM framework, resulting in better orientation estimation.
 
-### intermediate outputs while integrating EgoNet with CAROM framework.
+![picture alt](imgs/img1.png)
+![picture alt](imgs/img2.png)
 
+
+### intermediate outputs while integrating EgoNet with CAROM framework.
+![picture alt](imgs/img3.png)
 
 ### Challenges
 
